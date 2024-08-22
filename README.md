@@ -3,3 +3,6 @@ A collection of 8 SQL case studies where I analyze datasets, answer key business
 
 Case studies by - Danny Ma 
 https://8weeksqlchallenge.com/getting-started/
+
+To access the SQL code:
+Case Study #1 - Danny's Diner
