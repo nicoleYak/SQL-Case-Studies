@@ -5,4 +5,4 @@ Case studies by - Danny Ma
 https://8weeksqlchallenge.com/getting-started/
 
 To access the SQL code:
-Case Study #1 - Danny's Diner
+Case Study #1 - Danny’s Diner.sql
