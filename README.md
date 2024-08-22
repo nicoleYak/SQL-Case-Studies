@@ -5,4 +5,4 @@ Case studies by - Danny Ma
 https://8weeksqlchallenge.com/getting-started/
 
 
-**Case Study #1 -** [Case Study #1 - Danny’s Diner.sql](https://github.com/nicoleYak/SQL-Case-Studies/blob/3bf2b818adde3d0ce51f978591e9558161e70dc8/Case%20Study%20%231%20-%20Danny%E2%80%99s%20Diner.sql)
+**Case Study #1 -** [Danny’s Diner.sql](https://github.com/nicoleYak/SQL-Case-Studies/blob/969cdd30d26af6054fc01be9272decb3495f556a/Case%20Study%20%231%20-%20Danny%E2%80%99s%20Diner.sql)
